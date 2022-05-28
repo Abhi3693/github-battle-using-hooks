@@ -6,4 +6,4 @@ On popular page we can find top 20 github account with respective subject
 on battle page we can select two people by search and find winner between them by obtaining score between them.
 there is dark mode and light mode availabel in website
 
-view:
+view: https://abhi3693-github-battle-app.netlify.app/
